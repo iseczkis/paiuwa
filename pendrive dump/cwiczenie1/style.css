@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(204, 123, 123);
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+fieldset{
+    border: solid ;
+    border-color: rgb(177, 177, 177);
+    margin: 0 40%;
+    background-color: rgb(107, 107, 107);
+}
+legend{
+    background-color: rgb(107, 107, 107);
+    border: solid ;
+    border-color: rgb(177, 177, 177);
+    padding: 4px;
+}
